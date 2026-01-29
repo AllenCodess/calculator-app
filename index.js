@@ -1,8 +1,15 @@
 
 
 //Variables
-const numberOne = 9
-const numberTwo = 8
+const numberOne = 29
+const numberTwo = 13
+
+let numOneEl = document.querySelector('.numberOne')
+let numTwoEl = document.querySelector('.number2')
+
+numOneEl.textContent = numberOne
+numTwoEl.textContent = numberTwo
+
 const answerDisplay = document.querySelector('.answer')
 const additionBtn = document.getElementById('add-btn')
 const subtractionBtn = document.getElementById('sub-btn')
