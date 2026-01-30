@@ -1,1 +1,1 @@
-https://allencodess.github.io/calculator-app/ LIVE DEMO
+[LIVE DEMO](https://allencodess.github.io/calculator-app/)
